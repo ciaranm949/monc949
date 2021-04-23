@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ciaran
 - 👀 I’m interested in Coding and Astronomy
-- 🌱 I’m currently learning Java, C++, Javascript, PHP and SQL 
+- 🌱 I’m currently learning React, Java, C++, Javascript, PHP and SQL 
 - 📫 How to reach me ...Ciaranmaye8@gmail.com
 
 <!---
