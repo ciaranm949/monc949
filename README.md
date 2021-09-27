@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monc949&label=Profile%20views&color=0e75b6&style=flat" alt="monc949" /> </p>
 
-- 🌱 I’m currently learning **I’m currently learning React, Java, C++, Javascript, PHP and SQL**
+- 🌱 I’m currently learning **React, C++**
 
 - 📫 How to reach me **ciaranmaye8@gmail.com**
 
