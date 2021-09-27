@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ciaran</h1>
+<h1 align="center">Hi, I'm Ciaran</h1>
 <h3 align="center">A Developer based in the South East of Ireland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monc949&label=Profile%20views&color=0e75b6&style=flat" alt="monc949" /> </p>
