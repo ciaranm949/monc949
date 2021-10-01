@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monc949&label=Profile%20views&color=0e75b6&style=flat" alt="monc949" /> </p>
 
-- 🌱 I’m currently learning **React and C++**
+- 🌱 I’m currently learning **Python and C++**
 
 - 📫 How to reach me **ciaranmaye8@gmail.com**
 
-- ⚡ Fun fact **I collect Casio Watches!**
+- ⚡ Fun fact!! **I collect Casio Watches!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
