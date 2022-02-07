@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **ciaranmaye8@gmail.com**
 
-- ⚡ Fun fact!! **I collect Casio Watches!**
-
 - ⚡ I am a Co-Founder of **<a href="https://teq-space.com.com/" target="blank">TEQ-Space</a>**
 
 <h3 align="left">Connect with me:</h3>
