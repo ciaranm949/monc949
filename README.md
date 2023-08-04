@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ciaranmaye8@gmail.com**
 
-- ⚡ I am a Co-Founder of **<a href="https://teq-space.com.com/" target="blank">TEQ-Space</a>**
+- ⚡ I am a Co-Founder of **<a href="https://teq-space.com/" target="blank">TEQ-Space</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
